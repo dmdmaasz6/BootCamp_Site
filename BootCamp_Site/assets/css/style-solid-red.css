@@ -453,3 +453,99 @@ CUSTOM DIV BACKGROUND
     background-color: #403f3f;
     border-radius: 0px 0px 20px 20px;
 }
+
+/* =============================================================
+OVERVIEW ONE SECTIONS STYLES
+============================================================ */
+
+#overview1 .overview-wrapper {
+padding: 20px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+margin-bottom: 40px;
+background-color: rgba(255, 255, 255, 0.07);
+cursor: pointer;
+-webkit-transition: all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+transition: all 0.5s ease-in-out;
+}
+
+#overview1 .overview-wrapper:hover {
+background-color: rgba(255, 255, 255, 0.20);
+}
+
+#overview1 h3 {
+font-family: 'Oswald', sans-serif;
+}
+
+#overview1 .overview-wrapper i {
+margin: 5px;
+color: rgb(228, 79, 79);
+font-size: 60px;
+}
+
+/* =============================================================
+OVERVIEW TWO SECTIONS STYLES
+============================================================ */
+
+#overview2 .overview-wrapper {
+padding: 20px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+margin-bottom: 40px;
+background-color: rgba(255, 255, 255, 0.07);
+cursor: pointer;
+-webkit-transition: all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+transition: all 0.5s ease-in-out;
+}
+
+#overview2 .overview-wrapper:hover {
+background-color: rgba(255, 255, 255, 0.20);
+}
+
+#overview2 h3 {
+font-family: 'Oswald', sans-serif;
+}
+
+#overview2 .overview-wrapper i {
+margin: 5px;
+color: rgb(228, 79, 79);
+font-size: 60px;
+}
+
+/* =============================================================
+OVERVIEW THREE SECTIONS STYLES
+============================================================ */
+
+#overview3 .overview-wrapper {
+padding: 20px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+margin-bottom: 40px;
+background-color: rgba(255, 255, 255, 0.07);
+cursor: pointer;
+-webkit-transition: all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+transition: all 0.5s ease-in-out;
+}
+
+#overview3 .overview-wrapper:hover {
+background-color: rgba(255, 255, 255, 0.20);
+}
+
+#overview3 h3 {
+font-family: 'Oswald', sans-serif;
+}
+
+#overview3 .overview-wrapper i {
+margin: 5px;
+color: rgb(228, 79, 79);
+font-size: 60px;
+}
