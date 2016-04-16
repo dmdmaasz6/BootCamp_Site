@@ -17,3 +17,22 @@ c:\users\admin\documents\visual studio 2013\Projects\BootCamp_Site\BootCamp_Site
 c:\users\admin\documents\visual studio 2013\Projects\BootCamp_Site\BootCamp_Site\bin\Microsoft.Web.Infrastructure.dll
 c:\users\admin\documents\visual studio 2013\Projects\BootCamp_Site\BootCamp_Site\bin\System.Web.Mvc.dll
 c:\users\admin\documents\visual studio 2013\Projects\BootCamp_Site\BootCamp_Site\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\bin\BootCamp_Site.dll.config
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\bin\BootCamp_Site.dll
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\bin\BootCamp_Site.pdb
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\obj\Debug\BootCamp_Site.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\obj\Debug\BootCamp_Site.dll
+C:\Users\Admin\Documents\GitHub\BootCamp_Site\BootCamp_Site\obj\Debug\BootCamp_Site.pdb

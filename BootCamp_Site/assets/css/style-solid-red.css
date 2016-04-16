@@ -439,3 +439,17 @@ font-size:10px;
 color:#fff;
 text-decoration:none;
 }
+
+/*============================
+CUSTOM DIV BACKGROUND
+==============================*/
+
+.custom-div-row-top {
+    background-color: #403f3f;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.custom-div-row-bottom {
+    background-color: #403f3f;
+    border-radius: 0px 0px 20px 20px;
+}
