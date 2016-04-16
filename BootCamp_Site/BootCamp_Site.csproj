@@ -110,6 +110,7 @@
     <Content Include="assets\img\team\2.jpg" />
     <Content Include="assets\img\team\3.jpg" />
     <Content Include="assets\img\team\4.jpg" />
+    <Content Include="assets\img\MT-Solutions Logo.png" />
     <Content Include="assets\js\animations.min.js" />
     <Content Include="assets\js\appear.min.js" />
     <Content Include="assets\js\bootstrap.js" />

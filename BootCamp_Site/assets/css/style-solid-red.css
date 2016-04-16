@@ -140,7 +140,7 @@ HOME SECTION STYLES
 
 #home {
 text-align: center;
-padding-top: 120px;
+padding-top: 30px;
 padding-bottom: 60px;
 }
 
@@ -168,10 +168,10 @@ margin: 25px 20px;
 }
 
 /* =============================================================
-SERVICES SECTION STYLES
+REQUIREMENTS SECTION STYLES
 ============================================================ */
 
-#services .services-wrapper {
+#requirements .requirements-wrapper {
 padding: 20px;
 border-radius: 5px;
 -moz-border-radius: 5px;
@@ -185,15 +185,15 @@ cursor: pointer;
 transition: all 0.5s ease-in-out;
 }
 
-#services .services-wrapper:hover {
+#requirements .requirements-wrapper:hover {
 background-color: rgba(255, 255, 255, 0.20);
 }
 
-#services h3 {
+#requirements h3 {
 font-family: 'Oswald', sans-serif;
 }
 
-#services .services-wrapper i {
+#requirements .requirements-wrapper i {
 margin: 5px;
 color: rgb(228, 79, 79);
 font-size: 60px;
