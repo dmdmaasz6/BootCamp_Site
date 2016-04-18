@@ -26,6 +26,10 @@
     <link href="~/assets/css/animations.min.css" rel="stylesheet" />
     <!-- CUSTOM CSS -->
     <link href="~/assets/css/style-solid-red.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css'>
+    <link href="~/assets/css/TimeCircles.css" rel="stylesheet" />
+    <!--<link href="~/assets/css/custom.css" rel="stylesheet" />
     <!-- HTML5 Shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -56,11 +60,12 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#home">HOME</a></li>
-                    <li><a href="#requirements">REQUIREMENTS</a></li>
+                    <li><a href="#details">DETAILS</a></li>
+                    <li><a href="#requirements">FAQ's</a></li>
                     <li><a href="#pricing">PRICING</a></li>
-                    <li><a href="#work">WORK</a></li>
+                    <!--<li><a href="#work">WORK</a></li>-->
                     <li><a href="#team">TEAM</a></li>
-                    <li><a href="#overview1">GRID</a></li>
+                   <li><a href="#overview1">OVERVIEW</a></li>
                     <li><a href="#contact">CONTACT</a></li>
                 </ul>
             </div>
@@ -95,6 +100,36 @@
     <script src="~/assets/js/animations.min.js"></script>
     <!-- CUSTOM SCRIPTS -->
     <script src="~/assets/js/custom-solid.js"></script>
-
+    <script src="~/assets/js/TimeCircles.js"></script>
+    <script>
+        $("#DateCountdown").TimeCircles({
+            "animation": "smooth",
+            "bg_width": 1.2,
+            "fg_width": 0.1,
+            "circle_bg_color": "#fff",
+            "time": {
+                "Days": {
+                    "text": "Days",
+                    "color": "#FFCC66",
+                    "show": true
+                },
+                "Hours": {
+                    "text": "Hours",
+                    "color": "#99CCFF",
+                    "show": true
+                },
+                "Minutes": {
+                    "text": "Minutes",
+                    "color": "#BBFFBB",
+                    "show": true
+                },
+                "Seconds": {
+                    "text": "Seconds",
+                    "color": "#FF9999",
+                    "show": true
+                }
+            }
+        });
+    </script>
 </body>
 </html>

@@ -87,6 +87,7 @@
   <ItemGroup>
     <Content Include="assets\css\animations.min.css" />
     <Content Include="assets\css\bootstrap.css" />
+    <Content Include="assets\css\custom.css" />
     <Content Include="assets\css\font-awesome.css" />
     <Content Include="assets\css\ionicons.css" />
     <Content Include="assets\css\style-blue.css" />
@@ -95,11 +96,14 @@
     <Content Include="assets\css\style-solid-black.css" />
     <Content Include="assets\css\style-solid-red.css" />
     <Content Include="assets\css\style-yellow.css" />
+    <Content Include="assets\css\TimeCircles.css" />
+    <Content Include="assets\js\TimeCircles.js" />
     <Content Include="assets\fonts\fontawesome-webfont.svg" />
     <Content Include="assets\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="assets\fonts\ionicons.svg" />
     <Content Include="assets\img\1.jpg" />
     <Content Include="assets\img\2.jpg" />
+    <Content Include="assets\img\poster.png" />
     <Content Include="assets\img\portfolio\1.jpg" />
     <Content Include="assets\img\portfolio\2.jpg" />
     <Content Include="assets\img\portfolio\3.jpg" />
